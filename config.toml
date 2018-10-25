@@ -11,4 +11,4 @@ theme = "jeffprod"
     archive = "arsip"
 
     # Number of blog posts in each pagination page
-paginate = 6
+paginator = 6
