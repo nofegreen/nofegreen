@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 
 topik:
-    - Python
+    - Tutorial
 
 kategori:
     - Pemrograman
