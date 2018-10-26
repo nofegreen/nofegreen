@@ -8,7 +8,7 @@ theme = "jeffprod"
 
 [taxonomies]
     tag = "tags"
-    archive = "arsip"
+    archive = "archives"
 
     # Number of blog posts in each pagination page
 paginator = 6
