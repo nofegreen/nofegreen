@@ -1,7 +1,9 @@
 baseURL = "https://nofegreen.github.io/"
 languageCode = "en-us"
 title = "Nofe Green"
+author = "@NofeGreen"
 theme = "jeffprod"
+canonifyurls = true
 
 [permalinks]
     post = "/:year/:filename"
@@ -12,3 +14,4 @@ theme = "jeffprod"
 
     # Number of blog posts in each pagination page
 paginator = 6
+paginate = 3
