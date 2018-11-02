@@ -5,7 +5,7 @@ archives: "2018"
 tags: [Tutorial]
 author: Nofe Green
 ---
-## Cara Instal Komputer Untuk Windows 7
+## Cara Instal Komputer Agar Tidak Kehilangan Data
 Pada dasarnya menginstal komputer itu sangat mudah, terlebih pada saat ini semua teknologi berlomba-lomba untuk selalu update. Kebanyakan orang tidak memperhatikan data-data yang penting karena faktor tergesa-gesa atau deadline, disitulah terjadi kehilangan data penting tanpa disengaja.
 
 Disinilah saya akan membagikan tutorial ala master bagi pemula yang hanya bisa menginstal komputer secara dasar. Tool yang digunakan untuk menginstal komputer / OS (Operation System) bervariasi tapi saya hanya menggunakan `Rufus` untuk boating di Flashdisk.

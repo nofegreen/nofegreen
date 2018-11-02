@@ -11,7 +11,3 @@ canonifyurls = true
 [taxonomies]
     tag = "tags"
     archive = "archives"
-
-    # Number of blog posts in each pagination page
-paginator = 6
-paginate = 3

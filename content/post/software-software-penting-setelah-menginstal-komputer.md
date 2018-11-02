@@ -8,20 +8,23 @@ author: Nofe Green
 image: https://lorempixel.com/720/380
 thumbnail: https://lorempixel.com/320/160
 ---
-## Deretan software penting setelah menginstal komputer 
-Setelah kita siap menginstal komputer baru seprti PC, Laptop dan Notebook jangan langsung membabibuta untuk menginstal software - software yang dibutuhkan, karena bisa saja ada software yang sudah terinfeksi virus, usahakan mengikuti tahap - tahap berikut ini supaya tidak kecewa dengan hasil instalasi yang kita lakukan.
+## Software Software Penting Setelah Menginstal Komputer 
+Siap menginstal ulang sistem operasi pada komputer seperti PC, Laptop dan Notebook jangan langsung tergesa - gesa untuk menginstal software yang dibutuhkan, karena ada aturan yang mesti diperhatikan dan bisa saja ada software yang sudah terinfeksi virus tentunya, usahakan mengikuti tahap - tahap berikut ini supaya anda tidak kecewa dengan hasil instalasi yang kita lakukan.
 
 Berikut tahap - tahapnya :
 
-- Instal antivirus
-- instal direct dari 2012 - sekarang
-- instal all driver bawaan yang sesuai dengan speksifikasi hardware anda
-- ms office
-- rar / zip
-- foxit reader
-- codec
-- untuk pemutar musik
-- untuk pemutar video
-- untuk browsing
+1. Instal Antivirus Internasional + Smadav Lokal
+<p>Sebagai contoh antivirus yang saya pakai adalah Avast, dan ditambah Smadav sebagai proteksi total USB Flashdisk</p>
 
-Selanjutnya terserah anda seperti Photoshop, CorelDraw, Game dan lain - lain sesuai kemampuan Hardware anda.
+2. instal Direct dari 2012 - sekarang
+3. instal semua `driver` bawaan yang sesuai dengan speksifikasi hardware
+4. MS office
+5. Rar / Zip
+6. Foxit Reader
+7. Codec
+8. Software pemutar musik
+9. Software pemutar video
+10. Untuk browsing ( IE, Mozila, Chrome, dan lain-lain ), 
+<p>Untuk Mozila saya pakai Mozila Developer karena lebih cepat dan ringan.</p>
+
+Selanjutnya terserah anda seperti Photoshop, CorelDraw, Game, Adobe Premiere dan lain - lain sesuai kemampuan Hardware nya.
