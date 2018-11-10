@@ -4,6 +4,9 @@ date: 2018-10-25T11:35:36+07:00
 archives: "2018"
 tags: [Tutorial]
 author: Nofegreen
+
+image: https://lorempixel.com/720/380
+thumbnail: https://lorempixel.com/320/160
 ---
 ## Cara Membuat Flashdisk Bootable Untuk Windows
 Kalau kita masih menggunakan CD image untuk menginstal CPU, Laptop dan Notebook pada saat sekarang ini berarti kita sudah sangat ketinggalan zaman, meskipun masih banyak yang mencoba, ta[i sungguh tidak disarankan karena menurut saya terbilang sangat ribet dan susah, apalagi biaya yang dikeluarkan untuk membeli CD/DVD baru jika terjadi kesalahan dalam membuat Image bootable nya.
