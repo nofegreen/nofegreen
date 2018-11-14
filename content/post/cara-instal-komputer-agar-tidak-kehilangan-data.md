@@ -53,3 +53,31 @@ Pilihan booting yang akan tampil tidak lebih seperti gambar dibawah, jika telat 
 ![Boot](/img/img_artikel_install/boot_menu.png)
 
 Lalu pilih USB dengan tombol panah pada keyboard dan tekan Enter.
+
+![Boot](/img/img_artikel_install/w1.png)
+
+![Boot](/img/img_artikel_install/w2.png)
+
+![Boot](/img/img_artikel_install/w3.png)
+
+![Boot](/img/img_artikel_install/w4.png)
+
+![Boot](/img/img_artikel_install/w5.png)
+
+![Boot](/img/img_artikel_install/w6.png)
+
+![Boot](/img/img_artikel_install/w7.png)
+
+![Boot](/img/img_artikel_install/w8.png)
+
+![Boot](/img/img_artikel_install/w9.png)
+
+![Boot](/img/img_artikel_install/w10.png)
+
+![Boot](/img/img_artikel_install/w11.png)
+
+![Boot](/img/img_artikel_install/w12.png)
+
+![Boot](/img/img_artikel_install/w13.png)
+
+Selamat ...
