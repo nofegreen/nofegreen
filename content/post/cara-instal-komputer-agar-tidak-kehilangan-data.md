@@ -86,26 +86,62 @@ Pilihan booting yang akan tampil tidak lebih seperti <b>gambar 1</b>, jika telat
 
 ![Instal](/img/img_artikel_install/w5.png)
 
-<b>Ket : gambar 6</b> Lalu pilihlah `Custom (advanced)` yang dilingkari garis hijau, mengapa kita memilih ini, karena dengan ini kita dapat mengulang membuat partisi atau melakukan format hardisk secara langsung. Untuk pilihan `Upgrade` kita abaikan, `Upgrade` merupakan pilihan untuk melakukan pembaharuan sistem secara timpa, jadi tidak dipastikan error atau virus hilang secara keseluruhan.
+<b>Ket : gambar 6</b> Lalu pilihlah `Custom (advanced)` yang dilingkari garis hijau, mengapa kita memilih ini, karena dengan ini kita dapat mengulang membuat partisi atau melakukan format hardisk secara langsung. Untuk pilihan `Upgrade` kita abaikan, `Upgrade` merupakan pilihan untuk melakukan pembaharuan sistem secara timpa, jadi tidak dipastikan error atau virus hilang secara keseluruhan. Meskipun registry nya diperbaiki masih berkemungkinan di terinveksi virus yang masih ada disistem kumputer sebelumnya.
 
 <h5>Gambar 7</h5>
 
 ![Instal](/img/img_artikel_install/w6.png)
 
-<b>Ket : gambar 7</b> Disini nih yang perlu diperhatikan !!!, 
+<b>Ket : gambar 7</b> Penjelasan partition 1 adalah system yang berjalan pada hardisk sa'at ini jadi tidak perlu di delete atau format juga, dengan kata lain, biarkan sajalah :).
+
+!!! Dan yang akan kita Instal adalah `C`. Ingat ! <strong>" C " atau " Disk0 partition 2 "</strong> yang dilingkari kotak warna hijau.
+
+Disini nih yang perlu diperhatikan !!!, Jangan sekali-kali melakukan Delete, Format pada `Disk0 partition 3` yang dilingkari kotak warna merah atau turunan dibawahnya jika masih terdapat partition lagi. Ini adalah data lama pada hardisk yang tidak akan kita ganggu. Contoh disini adalah hardisk saya hanya terdapat 2 partition sebelumnya (C dan D saja). oia... Standar/Normal susunan partitonnya adalah `Disk0 partiton 2` itu `C` dan `Disk0 partiton 3` itu `D` kemudian `Disk0 partition 4` itu `E` dan seterusnya.
+
+Setelah memilih yang dilingkari kotak warna hijau sebaiknya kita format dulu partitionnya. Ok pastikan anda benar2 melakukan klik awal pada `Disk0 partition 2` lalu pilih format dibawahnya, dan setelah selesai lanjut dengan klik ` Next`.
+
+<h5>Gambar 8</h5>
 
 ![Instal](/img/img_artikel_install/w7.png)
 
+<b>Ket : gambar 8</b> Ini biarkan saja sampai selesai, setelah `Installing updates` komputer akan merestart secara sendirinya dan baru melakukan `Completing installation`.
+
+<h5>Gambar 9</h5>
+
 ![Instal](/img/img_artikel_install/w8.png)
+
+<b>Ket : gambar 9</b> Masukkan nama untuk Profil komputer anda, terserah nama apa yang diminati. Lanjut `Next`.
+
+<h5>Gambar 10</h5>
 
 ![Instal](/img/img_artikel_install/w9.png)
 
+<b>Ket : gambar 10</b> Kasih password jika mau, kalau tidak abaikan saja lalu klik `Next`. Contoh : saya tidak memberi password karena sering lupa dan terpaksa melakukan instal ulang lagi dikemudian hari :D, bisa diakali sih kalau lupa password tapi gak mau pusing ya gak usah dikasih password saja.
+
+<h5>Gambar 11</h5>
+
 ![Instal](/img/img_artikel_install/w10.png)
+
+<b>Ket : gambar 11</b> Pada pilihan `Use recommended settings` dan `Install important updates only` kita abaikan saja karena akan menghabiskan kuota internet / `bandwidth` dikemudian hari, jadi pilih saja yang `ASK ME LATER` yang dilingkari kotak berwarna hijau biar kita bisa mengatur update maupun setingan aplikasi yang memakai bandwidth nantinya.
+
+<h5>Gambar 12</h5>
 
 ![Instal](/img/img_artikel_install/w11.png)
 
+<b>Ket : gambar 12</b> Scrol dan pilih `(UTC+07:00)Bangkok, Hanoi, Jakarta` yang ada ibukota tercinta ini yang ditandai panah hijau pada gambar, lalu kilk `Next`.
+
+Untuk setting waktu biar sikron online yang baik, firewall dan Update Windows nya `akan` saya buat artikel terpisah `langkah-langkah setingan Windows 7 dan Windows 10 bagi pemula`
+
+<h5>Gambar 13</h5>
+
 ![Instal](/img/img_artikel_install/w12.png)
+
+<b>Ket : gambar 14</b> Tunggu beberapa saat...
+
+<h5>Gambar 14</h5>
 
 ![INstal](/img/img_artikel_install/w13.png)
 
-Selamat ...
+<b>Ket : gambar 14</b> Alhamdulillah selesai juga.
+
+ jika ada penjelasan agak rumit atau kurang jelas silahkan tinggalkan komentar dibawah artikel ini, dan terima kasih sudah berkunjung. Dan jangan lupa bagikan pada teman, sahabat atau kerabat jika dirasa bermanfaat :)
