@@ -130,13 +130,13 @@ Setelah memilih yang dilingkari kotak warna hijau sebaiknya kita format dulu par
 
 <b>Ket : gambar 12</b> Scrol dan pilih `(UTC+07:00)Bangkok, Hanoi, Jakarta` yang ada ibukota tercinta ini yang ditandai panah hijau pada gambar, lalu kilk `Next`.
 
-Untuk setting waktu biar sikron online yang baik, firewall dan Update Windows nya `akan` saya buat artikel terpisah `langkah-langkah setingan Windows 7 dan Windows 10 bagi pemula`
+Untuk setting waktu biar sikron online yang baik, firewall dan Update Windows nya lihat di Chanel Youtube Nofe Green [Setingan Awal Windows 7 Untuk Pemula](https://www.youtube.com/watch?v=m0FsR90cnyI "Youtube")
 
 <h5>Gambar 13</h5>
 
 ![Instal](/img/img_artikel_install/w12.png)
 
-<b>Ket : gambar 14</b> Tunggu beberapa saat...
+<b>Ket : gambar 13</b> Tunggu beberapa saat...
 
 <h5>Gambar 14</h5>
 

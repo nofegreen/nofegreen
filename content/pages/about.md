@@ -15,7 +15,8 @@ thumbnail: https://lorempixel.com/320/160
 ---
 ## Tentang Nofe Green
 
-Hi semua... Nofe Green adalah sebuah Blog Tutorial dengan thema `komputerisasi`, dimana semua tutorial menyangkut dengan teknologi komputer. Semua tutorial yang ada di Blog Nofe Green ini telah saya pelajari dan di ujicoba secara pribadi, tapi jika masih ada kesalahan atau `Bug` jangan ragu untuk mengirimi saya Notice berupa email atau berkomentar di bawah artikel yang terkait.
+Hi semua... 
+Nofe Green adalah sebuah Blog Tutorial dengan thema `komputerisasi`, dimana semua tutorial menyangkut dengan teknologi komputer. Semua tutorial yang ada di Blog Nofe Green ini telah saya pelajari dan di ujicoba secara pribadi, tapi jika masih ada kesalahan atau `Bug` jangan ragu untuk mengirimi saya Notice berupa email atau berkomentar di bawah artikel yang terkait.
 
 <p>Email & Kontak : coming soon </p>
 
