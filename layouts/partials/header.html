@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ .Site.Title }} {{ with .Title }} | {{ . }}{{ end }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <!-- /favicon -->
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Chivo" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css" />
+    <!-- Load an icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "css/blog.css" | absURL }}" />
+
+    {{ template "_internal/google_analytics.html" . }}
+
+</head>
+<body>
+
+    <!-- nav -->
+    <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="{{ .Site.BaseURL | absURL }}"><img src="/img/logo.png" width="28" height="28"></a>
+            <a class="navbar-item" href="{{ .Site.BaseURL | absURL }}"><strong>Tutorial</strong></a>
+            <a class="navbar-item" href="{{ .Site.BaseURL | absURL }}"><strong>File</strong></a>
+            <a class="navbar-item" href="{{ .Site.BaseURL }}pages/about/"><i class="material-icons md-24">face</i></a>
+            <a class="navbar-item" href="{{ .Site.BaseURL }}pages/privacy/"><strong>Privacy</strong></a>
+        </div>
+
+        <div class="navbar-end">
+            <a class="navbar-item" href="https://app.fossa.io/projects/git%2Bgithub.com%2Fnofegreen%2Fnofegreen.github.io?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnofegreen%2Fnofegreen.github.io.svg?type=shield"/></a>
+        </div>
+        
+        <!--div class="navbar-end">
+                <div class="navbar-item">
+                        <input class="input is-success" type="text" placeholder="Masukan kata kunci..">
+                    <p class="navbar-item">
+                        <a class="button is-success is-outlined">Cari</a>
+                    </p>
+                </div>
+        </div -->
+
+      </nav>
+    <!-- /nav -->
+
+    <!-- hero -->
+    <section class="hero is-info is-medium">
+        <div class="hero-body" style="background-image: url({{ "img/ground.png" | absURL }});">
+            <div class="container has-text-centered">
+                <br>
+                <h6 class="title is-size-1">
+                    {{ if eq .Type "tags" }}
+                        #{{ .Title }}
+                    {{ else if eq .Type "archives" }}
+                        Archive {{ .Title }}
+                    {{ else }}
+                        {{ .Site.Title }}
+                    {{ end }}
+                </h6>
+                <p class="subtitle">Welcome back! We're so excited to see you again!</p>
+                {{ if eq .Type "article" }}
+                    {{ .Date.Format "January 2, 2006" }} &middot;&nbsp;{{ .ReadingTime }} min read
+                {{ end }}
+            </div>
+        </div>
+    </section>

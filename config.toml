@@ -5,6 +5,8 @@ author = "@NofeGreen"
 theme = "jeffprod"
 canonifyurls = true
 
+googleAnalytics = "UA-130109284-1"
+
 [permalinks]
     post = "/:year/:filename"
 
