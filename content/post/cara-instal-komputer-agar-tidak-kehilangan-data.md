@@ -8,7 +8,7 @@ author: Nofe Green
 image: https://lorempixel.com/720/380
 thumbnail: https://lorempixel.com/320/160
 ---
-## Cara Instal Komputer Agar Tidak Kehilangan Data
+# Cara Instal Komputer Agar Tidak Kehilangan Data
 Menginstal komputer saat ini termasuk mudah, terlebih sudah ada beberapa software yang bisa digunakan untuk membuat booting dengan flashdisk, jadi kita tidak perlu lagi menggunakan cd/dvd. Bagi yang belum tau cara membuat Booting dengan Flashdisk saya sudah membuat tutorial terpisah disini [Cara Membuat Flashdisk Bootable Untuk Windows](https://nofegreen.github.io/2018/cara-membuat-flashdisk-bootable-untuk-windows/)
 
 Sangat saya sarankan membaca sedetail mungkin supaya nanti ada pelajaran terpisah yang anda petik. Sebelum melakukan instalasi tentu kita harus berhati-hati terhadap data yang ada, apalagi tersimpan data penting pada sistem lama. Hati-hati disini yaitu lebih fokus pada saat melakukan partisi hardisk yang ada. 

@@ -8,7 +8,7 @@ author: Nofegreen
 image: https://lorempixel.com/720/380
 thumbnail: https://lorempixel.com/320/160
 ---
-## Cara Membuat Flashdisk Bootable Untuk Windows
+# Cara Membuat Flashdisk Bootable Untuk Windows
 Kalau kita masih menggunakan CD image untuk menginstal CPU, Laptop dan Notebook pada saat sekarang ini berarti kita sudah sangat ketinggalan zaman, meskipun masih banyak yang mencoba, ta[i sungguh tidak disarankan karena menurut saya terbilang sangat ribet dan susah, apalagi biaya yang dikeluarkan untuk membeli CD/DVD baru jika terjadi kesalahan dalam membuat Image bootable nya.
 
 `Flashdisk` itulah yang akan kita gunakan sebagai pengganti CD/DVD untuk membuat image OS nya.
@@ -38,6 +38,6 @@ Setelah anda memilih ISO nya tinggal klik `START` dan tunggu proses sampai seles
 
 Artikel Terkait Selanjutnya :
 
- - [Cara Instal Komputer Agar Tidak Kehilangan Data.](https://nofegreen.github.io/2018/cara-instal-komputer-agar-tidak-kehilangan-data/)
+ - [Cara Instal Komputer Agar Tidak Kehilangan Data](https://nofegreen.github.io/2018/cara-instal-komputer-agar-tidak-kehilangan-data/)
 
- - [Software Software Penting Setelah Menginstal Komputer.](https://nofegreen.github.io/2018/software-software-penting-setelah-menginstal-komputer/)
+ - [Software Software Penting Setelah Menginstal Komputer](https://nofegreen.github.io/2018/software-software-penting-setelah-menginstal-komputer/)

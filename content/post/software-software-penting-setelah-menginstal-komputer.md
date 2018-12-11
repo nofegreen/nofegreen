@@ -8,10 +8,10 @@ author: Nofe Green
 image: https://lorempixel.com/720/380
 thumbnail: https://lorempixel.com/320/160
 ---
-## Software Software Penting Setelah Menginstal Komputer 
+# Software Software Penting Setelah Menginstal Komputer 
 Siap menginstal ulang sistem operasi pada komputer seperti PC, Laptop dan Notebook jangan langsung tergesa - gesa untuk menginstal software yang dibutuhkan, karena ada aturan yang mesti diperhatikan dan bisa saja ada software yang sudah terinfeksi virus tentunya, usahakan mengikuti tahap - tahap berikut ini supaya anda tidak kecewa dengan hasil instalasi yang kita lakukan.
 
-Berikut tahap - tahapnya :
+### Berikut tahap - tahapnya :
 
 1. Instal Antivirus Internasional + Smadav Lokal
 <p>Sebagai contoh antivirus yang saya pakai adalah Avast, dan ditambah Smadav sebagai proteksi total USB Flashdisk</p>
