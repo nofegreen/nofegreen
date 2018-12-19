@@ -33,8 +33,8 @@
     <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
           <a class="navbar-item" href="{{ .Site.BaseURL | absURL }}"><img src="/img/logo.png" width="28" height="28"></a>
-            <a class="navbar-item" href="{{ .Site.BaseURL | absURL }}"><strong>Tutorial</strong></a>
-            <a class="navbar-item" href="{{ .Site.BaseURL | absURL }}"><strong>File</strong></a>
+            <a class="navbar-item" href="{{ .Site.BaseURL | absURL }}"><strong>Beranda</strong></a>
+            <a class="navbar-item" href="https://github.com/nofegreen/"><strong>File Github</strong></a>
             <a class="navbar-item" href="{{ .Site.BaseURL }}pages/about/"><i class="material-icons md-24">face</i></a>
             <a class="navbar-item" href="{{ .Site.BaseURL }}pages/privacy/"><strong>Privacy</strong></a>
         </div>
@@ -69,7 +69,7 @@
                         {{ .Site.Title }}
                     {{ end }}
                 </h6>
-                <p class="subtitle">Welcome back! We're so excited to see you again!</p>
+                <p class="subtitle">Tutorial Singkat Tapi Penting</p>
                 {{ if eq .Type "article" }}
                     {{ .Date.Format "January 2, 2006" }} &middot;&nbsp;{{ .ReadingTime }} min read
                 {{ end }}

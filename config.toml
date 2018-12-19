@@ -4,6 +4,7 @@ title = "Nofe Green"
 author = "@NofeGreen"
 theme = "jeffprod"
 canonifyurls = true
+paginate = 4
 
 googleAnalytics = "UA-130109284-1"
 
